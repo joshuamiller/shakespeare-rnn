@@ -1,6 +1,6 @@
 # shakespeare-rnn
 
-Generate Fakespeare with Clojure using jutsu.ai[jutsu] and DeepLearning4J[dl4j]
+Generate Fakespeare with Clojure using [jutsu.ai][jutsu] and [DeepLearning4J][dl4j]
 
 ## Usage
 
