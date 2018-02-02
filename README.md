@@ -22,5 +22,5 @@ Copyright © 2018 Joshua Miller
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
 
-[jutsu][https://github.com/hswick/jutsu.ai]
-[dl4j][https://deeplearning4j.org]
+[jutsu]: https://github.com/hswick/jutsu.ai
+[dl4j]: https://deeplearning4j.org
