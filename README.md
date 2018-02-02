@@ -18,9 +18,9 @@ Then start a repl and get training!
 ## Java Troubleshooting
 
 If you get a `ClassNotFound` Exception on startup, there's probably a
-Java compilation issue for the helper classes in `src/java`. A coupl things that
-have helped, noting that different things seem to work on different platforms
-(not a great situation):
+Java compilation issue for the helper classes in `src/java`. A couple things
+that have helped, noting that different things seem to work on different
+platforms (not a great situation):
 
 * Step down to Clojure 1.8
 * Comment out the `:source-paths` line in `project.clj` and run `lein javac`
